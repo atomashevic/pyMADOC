@@ -36,7 +36,7 @@ file_path = download_file("reddit", community="funny", output_dir="data")
 file_path = download_file("bluesky", output_dir="data")
 
 # Load directly as DataFrame
-df = download_file("reddit", community="funny", as_dataframe=True)
+df = download_file("reddit", community="funny", as_dataframeTrue)
 
 # Download and combine Reddit-Voat community pair
 # As files
