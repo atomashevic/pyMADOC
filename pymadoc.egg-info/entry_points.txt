@@ -1,0 +1,2 @@
+[console_scripts]
+pymadoc = pymadoc.pymadoc.cli:main
